@@ -1,2 +1,2 @@
-This is a Java MMO I started writing back in 2006. I don't remember if I ever got it working, but it looks like instead of actually using a database it was saving to flat files (one for the ball and one for each player...).
+This is a Pong MMO I started writing back in 2006. I don't remember if I ever got it working, but it looks like instead of actually using a database it was saving to flat files (one for the ball and one for each player...).
 Anyways, have a peek.
